@@ -1,0 +1,6 @@
+G,G,C,G,A,C,T,C,G,G
+C,C,G,T,A,C,_,T,A,G
+T,T,C,A,_,_,A,T,T,C
+A,C,G,T,A,_,A,A,_,A
+C,G,_,T,_,_,C,C,A,G
+T,A,_,T,_,G,G,G,T,T
